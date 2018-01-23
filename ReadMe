@@ -1,0 +1,4 @@
+This project is based on a Convolutional Neural Network.
+The main purpose of this project is to show the edge detection inside each convolutional layer of the neural network.
+Each layer has its own unique shape detection.
+In output edge detection is shown in images along with the filters for the shape of each convolutional layer.
